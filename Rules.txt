@@ -1,0 +1,3 @@
+* Important Social phishing template note:::
+link = "https://github.com/pvanfas/socialphish"
+collect from link is "https://github.com/pvanfas/socialphish.git"
